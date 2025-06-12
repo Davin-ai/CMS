@@ -1,0 +1,16 @@
+button{
+    padding: 8px 20px;
+    font-size: 1.1rem;
+    border-radius: 10px;
+    color: var(--white);
+    background-color: var(--blue);
+    margin: 2px;
+}
+
+textarea {
+    width: 90%;
+    height: 80px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #F3F4F6;
+}
